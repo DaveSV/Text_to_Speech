@@ -5,5 +5,5 @@ La conversión de texto a voz con Python ofrece muchas características, por eje
 
 Vamos a utilizar la librería gTTS (Google Text-to-Speech) de Python y generar archivos de audio desde un texto en español con una voz masculina, y para nuestro proyecto necesitaremos instalar la librería gTTS y un reproductor de audio como mpg321.
 
-Mira la entrada del Blog en : https://albertosaenz.com/blog/texto-a-voz-tts-con-python-gtts-y-flask-framework/
+Mira la entrada del Blog en : [https://albertosaenz.com/blog/texto-a-voz-tts-con-python-gtts-y-flask-framework/](https://blog.albertosaenz.com/texto-a-voz-tts-con-python-gtts-y-flask-framework)https://blog.albertosaenz.com/texto-a-voz-tts-con-python-gtts-y-flask-framework 
 
