@@ -3,6 +3,8 @@
 
 La conversión de texto a voz con Python ofrece muchas características, por ejemplo, podemos guardar la salida en un archivo de MP3, utilizar diversos idiomas y voces masculinas o femeninas.
 
+Además, es ideal para incorporar respuestas en audio a tus aplicaciones de Inteligencia Artificial, transformando una simple consulta multimodal en una experiencia verdaderamente multisensorial al generar la respuesta del LLM en audio para el usuario.
+
 Vamos a utilizar la librería gTTS (Google Text-to-Speech) de Python y generar archivos de audio desde un texto en español con una voz masculina, y para nuestro proyecto necesitaremos instalar la librería gTTS y un reproductor de audio como mpg321.
 
 Mira la entrada del Blog en : [https://albertosaenz.com/blog/texto-a-voz-tts-con-python-gtts-y-flask-framework/](https://blog.albertosaenz.com/texto-a-voz-tts-con-python-gtts-y-flask-framework)https://blog.albertosaenz.com/texto-a-voz-tts-con-python-gtts-y-flask-framework 
